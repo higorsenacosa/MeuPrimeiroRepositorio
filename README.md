@@ -1,2 +1,2 @@
 # MeuPrimeiroRepositorio
-Conhecendo o GitHub
+Aula da UC15 sobre Versões de Sistemas com o GitHub e GitHub Desktop
